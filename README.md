@@ -1,8 +1,7 @@
-# WebSite-Language-Technology
-Web Site da minha empresa Language Technology, para apresentação de nossos serviços de desenvolvimento de softwares para pequenas e médias empresas. 
+# WebSite-Language-Technology  ![favicon com fundo pretro](https://github.com/user-attachments/assets/c34ed287-655a-4006-9d53-c9fbd9545876)
 
-# WebSite - Cliente-Rockers-Burguers 🍔
-Este repositório foi criado para compartilhar a criação de exibição do Website Criado para meu cliente Rockers Burguer.
+
+Web Site da minha empresa Language Technology, para apresentação de nossos serviços de desenvolvimento de softwares para pequenas e médias empresas. 
 
 ![image](https://github.com/user-attachments/assets/624727d6-8fc8-4376-b61a-61f2749665f7)
 
