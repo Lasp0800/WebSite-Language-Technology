@@ -1,0 +1,23 @@
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente (sensíveis)
+.env
+./assets/images/.env
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Futuras dependências (caso você adicione npm/Yarn)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Futuras pastas de build (caso você use Webpack, Vite, etc.)
+dist/
+build/
