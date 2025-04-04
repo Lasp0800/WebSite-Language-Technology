@@ -3,7 +3,10 @@
 
 Web Site da minha empresa Language Technology, para apresentação de nossos serviços de desenvolvimento de softwares para pequenas e médias empresas. 
 
-![image](https://github.com/user-attachments/assets/624727d6-8fc8-4376-b61a-61f2749665f7)
+
+
+https://github.com/user-attachments/assets/8fa8f84e-876c-4104-b55f-3435093185ac
+
 
 
 🔹[Descrição do projeto](#descrição-do-projeto)
